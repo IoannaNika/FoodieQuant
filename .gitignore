@@ -44,3 +44,5 @@ package-lock.json
 output
 Images
 ImageSets
+temp
+models
